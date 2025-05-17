@@ -53,8 +53,8 @@ Sales-Data-Analysis-Dashboard/
 > 📌 Below are screenshots from the final dashboard:
 
 ![Dashboard Overview](images/dashboard_overview.png)
-![Monthly Trends](images/monthly_trends.png)
-![Sales by Region](images/sales_by_region.png)
+![Monthly Trends](images/monthly_sales.png)
+![Sales by Region](images/subcategory_profit.png)
 
 ---
 
