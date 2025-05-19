@@ -23,22 +23,6 @@ This project presents a complete analysis of a retail sales dataset using Python
 
 ---
 
-## 📁 Project Structure
-
-Sales-Data-Analysis-Dashboard/
-├── data/ # Contains the raw dataset
-│ └── Sample - Superstore.csv
-├── notebooks/ # Jupyter Notebook for EDA
-│ └── sales_analysis.ipynb
-├── images/ # Dashboard screenshots
-│ ├── dashboard_overview.png
-│ ├── sales_by_region.png
-│ └── monthly_trends.png
-├── Sales-Dashboard.pbix # Power BI dashboard file
-└── README.md # Project documentation
-
----
-
 ## 📈 Key Insights
 
 - The **West** region generated the highest sales, but the **Central** region had better profit margins.
